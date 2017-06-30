@@ -1,5 +1,5 @@
 {
-    "name":         "UnityMagentoGitHubUser/php-future",
+    "name":         "unity-magento-git-hub-user/php-future",
     "description":  "Polyfill new (5.6+) features into old (5.4+) versions of PHP",
     "keywords": [
             "security",
